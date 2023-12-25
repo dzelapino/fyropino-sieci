@@ -47,6 +47,15 @@ interface gigabitEthernet0/1.20
  ip address 192.168.20.1 255.255.255.0
 end
 
+end
+
+conf t
+
+int g0/1
+
+no shutdown
+
+
 ```
 
 ### S1
@@ -78,8 +87,6 @@ ip default-gateway 192.168.1.1
 end
 
 ```
-
-potem conf t -> int g0/1 -> no shutdown
 
 ### S2
 
@@ -137,7 +144,16 @@ conf t -> int fa0/6 -> no switchport mode trunk -> switchport mode access  -> sw
 
 W S1 mozna wpisac show vlan brief, potem show interface trunk
 
-wpisujemy conf -> int vlan 1 -> no shutdown -> end
+wpisujemy conf t -> int vlan 1 -> no shutdown -> end
+
+UWAGA NOWE
+
+W S1 TRZEBA DODAĆ VLAN 20 ENGINEERING
+
+z poziomu #
+conf t -> vlan 20 -> name Engineering -> end
+
+KONIEC UWAGA
 
 Tera z PCA pingujemy 192.168.10.1
 
@@ -145,7 +161,7 @@ Nie smiga wiec problem jest w R1
 
 Wbijamy do R1
 
-Hasło -> en -> Hasło -> show running config -> conf t -> int g0/1.1 -> encapsulation dot1Q 1 -> int g0/1.10 -> ip add 192.168.10.1 255.255.255.0 -> end
+Hasło -> en -> Hasło -> show running-config -> conf t -> int g0/1.1 -> encapsulation dot1Q 1 -> int g0/1.10 -> ip add 192.168.10.1 255.255.255.0 -> end
 
 Tera do PCa i pingujemy 192.168.10.1
 Gitara
@@ -157,7 +173,7 @@ Ping 192.168.1.12
 Nie dziala
 
 Wbijamy do S2
-Hasło -> en -> Hasło -> show running config ->  end -> configure terminal -> int fa0/18 -> switchport access vlan 20 -> exit -> int vlan 1 -> no shutdown -> end -> show vlan brief -> conf t -> no vlan 10 -> exit
+Hasło -> en -> Hasło -> show running-config -> configure terminal -> int fa0/18 -> switchport access vlan 20 -> exit -> int vlan 1 -> no shutdown -> end -> show vlan brief -> conf t -> no vlan 10 -> exit
 
 tera z PCA ping 192.168.10.1 potem ping 192.168.1.11
 nastepnie pingujemy 192.168.1.12 ostatecznie ping 192.168.20.3
