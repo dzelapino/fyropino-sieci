@@ -7,7 +7,7 @@
 
 ## 5.3.2.4 - w toku
 
-- .PKT
+- .PKT - finito
 - .DOCX
 
 ## 6.5.2.5
