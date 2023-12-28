@@ -18,10 +18,10 @@
 - .DOCX
 - odpowiedzi po hiszpańsku https://dokumen.tips/documents/actividad-6525-lab-troubleshooting-ipv4-and-ipv6-static-routes.html?page=6
 
-## 9.4.2.7
+## 9.4.2.7 - ZROBIONE
 
-- .PKT
-- .DOCX
+- .PKT - ZROBIONE
+- .DOCX - ZROBIONE
 
 ## 10.1.4.4
 ### powinno być 8.1.4.4
