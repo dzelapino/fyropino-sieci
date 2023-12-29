@@ -8,14 +8,14 @@
 
 ## 5.3.2.4 - w toku
 
-- .PKT - finito
+- .PKT - ZROBIONE
 - .DOCX
 - wersja z odpowiedziami dla wykładowcy w folderze
 
-## 6.5.2.5
+## 6.5.2.5 - w toku
 
-- .PKT
-- .DOCX
+- .PKT - ZROBIONE
+- .DOCX - Poprawiona tabelka, zostało wypełnić reszte docx
 - odpowiedzi po hiszpańsku https://dokumen.tips/documents/actividad-6525-lab-troubleshooting-ipv4-and-ipv6-static-routes.html?page=6
 
 ## 9.4.2.7 - ZROBIONE
