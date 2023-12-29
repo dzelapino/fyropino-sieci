@@ -36,8 +36,8 @@
 - .DOCX
 - wersja z odpowiedziami dla wykładowcy w folderze
 
-## 11.3.1.5
+## 11.3.1.5 - w toku
 
-- .PKT
+- .PKT - ZROBIONE
 - .DOCX
 - odpowiedzi po podaniu karty https://www.coursehero.com/file/10751405/11315-Lab-Troubleshooting-NAT-Configurations-ILM/
