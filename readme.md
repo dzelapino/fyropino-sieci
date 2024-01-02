@@ -1,8 +1,8 @@
 # Do zrobienia
 
-## 3.2.4.9
+## 3.2.4.9 - w toku
 
-- .PKT
+- .PKT - ZROBIONE
 - .DOCX
 - odpowiedzi po podaniu karty https://www.coursehero.com/file/38746719/ki-4-3249-Lab-Troubleshooting-VLAN-Configurationsdoc/
 
