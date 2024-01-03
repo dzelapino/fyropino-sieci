@@ -23,10 +23,11 @@
 - .PKT - ZROBIONE
 - .DOCX - ZROBIONE
 
-## 10.1.4.4
+## 10.1.4.4 - w toku
 ### powinno być 8.1.4.4
+### (i)@Krzyś: tak ale też nie niektóre laby maja dwa numerki
 
-- .PKT
+- .PKT - ZROBIONE
 - .DOCX
 - z odpowiedziami dla wykładowcy, ale po włosku XD https://pdfcoffee.com/8144-lab-troubleshooting-dhcpv4-ilm-5-pdf-free.html
 
