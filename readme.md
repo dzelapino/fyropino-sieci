@@ -31,9 +31,9 @@
 - .DOCX
 - z odpowiedziami dla wykładowcy, ale po włosku XD https://pdfcoffee.com/8144-lab-troubleshooting-dhcpv4-ilm-5-pdf-free.html
 
-## 10.2.4.4
+## 10.2.4.4 - W TOKU (TO nie będzie działało bo packet tracer średnio wspiera ipv6 w switchach)
 
-- .PKT
+- .PKT - ZROBIONE ALE NIE DZIALA
 - .DOCX
 - wersja z odpowiedziami dla wykładowcy w folderze
 
