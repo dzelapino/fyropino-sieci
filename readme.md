@@ -1,22 +1,19 @@
 # Do zrobienia
 
-## 3.2.4.9 - w toku
+## 3.2.4.9 - ZROBIONE
 
 - .PKT - ZROBIONE
 - .DOCX - ZROBIONE
-- odpowiedzi po podaniu karty https://www.coursehero.com/file/38746719/ki-4-3249-Lab-Troubleshooting-VLAN-Configurationsdoc/
 
 ## 5.3.2.4 - ZROBIONE
 
 - .PKT - ZROBIONE
 - .DOCX - ZROBIONE
-- wersja z odpowiedziami dla wykładowcy w folderze
 
 ## 6.5.2.5 - w toku
 
 - .PKT - ZROBIONE
-- .DOCX - Poprawiona tabelka, zostało wypełnić reszte docx
-- odpowiedzi po hiszpańsku https://dokumen.tips/documents/actividad-6525-lab-troubleshooting-ipv4-and-ipv6-static-routes.html?page=6
+- .DOCX - ZROBIONE
 
 ## 9.4.2.7 - ZROBIONE
 
@@ -24,21 +21,16 @@
 - .DOCX - ZROBIONE
 
 ## 10.1.4.4 - ZROBIONE
-### powinno być 8.1.4.4
-### (i)@Krzyś: tak ale też nie niektóre laby maja dwa numerki
 
 - .PKT - ZROBIONE
 - .DOCX - ZROBIONE
-- z odpowiedziami dla wykładowcy, ale po włosku XD https://pdfcoffee.com/8144-lab-troubleshooting-dhcpv4-ilm-5-pdf-free.html
 
 ## 10.2.4.4 - ZROBIONE (TO nie będzie działało bo packet tracer średnio wspiera ipv6 w switchach)
 
 - .PKT - ZROBIONE ALE NIE DZIALA
 - .DOCX - ZROBIONE
-- wersja z odpowiedziami dla wykładowcy w folderze
 
-## 11.3.1.5 - w toku
+## 11.3.1.5 - ZROBIONE
 
 - .PKT - ZROBIONE
-- .DOCX
-- odpowiedzi po podaniu karty https://www.coursehero.com/file/10751405/11315-Lab-Troubleshooting-NAT-Configurations-ILM/
+- .DOCX - ZROBIONE
