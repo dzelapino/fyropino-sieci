@@ -6,10 +6,10 @@
 - .DOCX
 - odpowiedzi po podaniu karty https://www.coursehero.com/file/38746719/ki-4-3249-Lab-Troubleshooting-VLAN-Configurationsdoc/
 
-## 5.3.2.4 - w toku
+## 5.3.2.4 - ZROBIONE
 
 - .PKT - ZROBIONE
-- .DOCX
+- .DOCX - ZROBIONE
 - wersja z odpowiedziami dla wykładowcy w folderze
 
 ## 6.5.2.5 - w toku
