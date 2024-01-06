@@ -23,12 +23,12 @@
 - .PKT - ZROBIONE
 - .DOCX - ZROBIONE
 
-## 10.1.4.4 - w toku
+## 10.1.4.4 - ZROBIONE
 ### powinno być 8.1.4.4
 ### (i)@Krzyś: tak ale też nie niektóre laby maja dwa numerki
 
 - .PKT - ZROBIONE
-- .DOCX
+- .DOCX - ZROBIONE
 - z odpowiedziami dla wykładowcy, ale po włosku XD https://pdfcoffee.com/8144-lab-troubleshooting-dhcpv4-ilm-5-pdf-free.html
 
 ## 10.2.4.4 - ZROBIONE (TO nie będzie działało bo packet tracer średnio wspiera ipv6 w switchach)
