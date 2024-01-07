@@ -34,3 +34,7 @@
 
 - .PKT - ZROBIONE
 - .DOCX - ZROBIONE
+
+
+## szukajka
+" 3.2.4.9 " troubleshooting vlan configurations site:itexamanswers.net
